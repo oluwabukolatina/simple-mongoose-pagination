@@ -1,8 +1,13 @@
 {
   "main": "lib/index.js",
-  "version": "0.2.7",
+  "version": "0.0.1",
   "types": "lib/index.d.ts",
   "build": "tsc",
+  "keywords": [
+    "mongoose",
+    "pagination",
+    "mongodb"
+  ],
   "devDependencies": {
     "@types/jest": "^29.4.0",
     "@typescript-eslint/eslint-plugin": "^5.53.0",
@@ -31,5 +36,5 @@
     "lib/**/*"
   ],
   "name": "simple-mongoose-pagination",
-  "description": "simple mongoose pagination",
+  "description": "simple mongoose pagination"
 }
