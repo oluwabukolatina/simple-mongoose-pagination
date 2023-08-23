@@ -1,5 +1,5 @@
 # simple mongoose pagination
-> typescript (with mongodb)
+> typescript
 ## Getting Started
 >  [Technologies](#technologies-used) &middot; [Testing Tools](#testing-tools) &middot; [Installations](#installations)&middot; [Tests](#tests) &middot; [Acknowledgments](#acknowledgments) &middot; [Author](#author)
 ## Technologies Used
