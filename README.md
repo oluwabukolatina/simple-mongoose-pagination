@@ -23,6 +23,10 @@
   ```shell
   $ npm install simple-mongoose-pagination
   ```
+#### Usage
+  ```shell
+  $ const result = getPaginationQueryDetails({pageNumber, itemsPerPage},defaultLimit,totalItemsCount)
+  ```
 ## Tests
   > run the command below
   ```shell
