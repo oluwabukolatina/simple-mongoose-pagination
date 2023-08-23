@@ -25,8 +25,11 @@
   ```
 #### Usage
   ```shell
-  $ const result = getPaginationQueryDetails({pageNumber, itemsPerPage},defaultLimit,totalItemsCount)
+  $ const result = getPaginationQueryDetails({pageNumber, itemsPerPage},totalItemsCount)
   ```
+```shell
+$ currentPage: 3,limit: 10, skip: 20,totalItemsCount: 200,totalPages: 20
+```
 ## Tests
   > run the command below
   ```shell
